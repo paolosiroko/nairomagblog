@@ -1,1 +1,1 @@
-web: gunicorn Nairomag blog.wsgi --log-file -
+web: gunicorn nairomagblog.wsgi --log-file -
